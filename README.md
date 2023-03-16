@@ -13,6 +13,7 @@
 - advanced မှ docker *auto deploy* ကို **NO** ပြောင်းပါ
 - ပြီးလျှင် အောက်ဆုံးနားက create web service အပြာရောင် ကို နှိပ်ပြီး ခဏေစာင့်ပါ
 - terminal box တက်လာပြီး install ပါမည်။ Bot Start စာပေါ်လာလျှင် စသုံးလို့ရပါပြီ။
+- Bot run လျှင် app url ကို cronjob တွင် connect ပါ
 
 ## Deploy on Koyeb
 
