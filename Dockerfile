@@ -1,4 +1,4 @@
-FROM npt13/mltbr:16.3.23
+FROM npt13/mltbkore
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
 COPY . .
