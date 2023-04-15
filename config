@@ -1,0 +1,37 @@
+TELEGRAM_API_HASH = ""                                # Require restart after changing it while bot running
+TELEGRAM_API_ID = ""                                  # Require restart after changing it while bot running
+BOT_TOKEN = ""                                        # Require restart after changing it while bot running
+OWNER_ID = ""                                         # Require restart after changing it while bot running
+# OPTIONAL CONFIG
+GDRIVE_FOLDER_ID = ""
+IS_TEAM_DRIVE = ""
+DOWNLOAD_DIR = "/usr/src/app/downloads/"              # Require restart after changing it while bot running
+SUDO_USERS = ""
+ALLOWED_CHATS= ""
+AUTO_MIRROR= ""                                       # Require restart after changing it while bot running
+TORRENT_TIMEOUT= ""
+AUTO_DELETE_MESSAGE_DURATION = "10"
+UPTOBOX_TOKEN= ""
+EXTENSION_FILTER = ""
+CMD_INDEX = ""                                        # Require restart after changing it while bot running
+STATUS_LIMIT = "4"
+DATABASE_URL = ""                                     # Require restart after changing it while bot running
+VIEW_LINK = "False"
+USE_SERVICE_ACCOUNTS = ""
+SERVICE_ACCOUNTS_REMOTE= ""
+REMOTE_SELECTION= "" 
+MULTI_REMOTE_UP= ""
+SERVER_SIDE= ""
+LEECH_SPLIT_SIZE= ""
+AS_DOCUMENT = "False"
+EQUAL_SPLITS = "False"
+LEECH_LOG = ""
+BOT_PM= ""
+USER_SESSION_STRING= ""                               # Require restart after changing it while bot running
+MEGA_API_KEY = ""
+MEGA_EMAIL_ID = ""
+MEGA_PASSWORD = ""
+# RSS
+RSS_DELAY = "900"                                        # Require restart after changing it while bot running
+SEARCH_LIMIT = "0"
+SEARCH_PLUGINS = '["https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/linuxtracker.py"]'
