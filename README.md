@@ -18,8 +18,7 @@
 ## Deploy on Koyeb
 
 - at koyeb deploy, choose docker image
-- fill as name **npt13/mltbr**
-- tag **16.3.23**
+- fill as name **npt13/samdeploy**
 - add CONFIG_FILE_URL at Env Vars (must be set Base Url, Port)
 - ♦♦addition FILL Koyeb Exposing your Service port to 80
 - and deploy
