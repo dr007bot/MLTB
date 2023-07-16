@@ -1,4 +1,4 @@
-FROM npt13/mltbra
+FROM npt13/ultimate
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
 COPY . .
